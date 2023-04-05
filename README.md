@@ -1,4 +1,4 @@
-# bull-run-animation
+# Animation of the Battle of Bull Run
 This is a quick animation of the Battle of Bull Run using basic OpenGL. This was created as a final project for CS460 at Old Dominion University.
 
 ## Building
